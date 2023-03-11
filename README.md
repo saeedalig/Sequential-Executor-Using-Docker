@@ -1,13 +1,11 @@
-# SequentailExeUsingDocker
+# SequentialExeUsingDocker
 
 ### How to run
 
 1. Clone the repository
-```
-git clone https://github.com/vishalsingh17/SequentailExeUsingDocker
-```
+git clone https://github.com/saeedalig/Sequential-Executor-Using-Docker
 
-2. Change the directory to SequentailExeUsingDocker.
+2. Change the directory to Sequential-Executor-Using-Docker.
 
 3. Create the user using the command below
 ```
