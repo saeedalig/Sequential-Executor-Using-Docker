@@ -1,4 +1,4 @@
-# SequentialExeUsingDocker
+# Sequential-Executor-Using-Docker
 
 ### How to run
 
